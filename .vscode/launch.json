@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Day10",
+            "request": "launch",
+            "mainClass": "Day10",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Day9",
+            "request": "launch",
+            "mainClass": "Day9",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Day8",
+            "request": "launch",
+            "mainClass": "Day8",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Votingsystem",
+            "request": "launch",
+            "mainClass": "Votingsystem",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Activity1",
+            "request": "launch",
+            "mainClass": "Activity1",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Activity3",
+            "request": "launch",
+            "mainClass": "Activity3",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Activity2",
+            "request": "launch",
+            "mainClass": "Activity2",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Activiy1",
+            "request": "launch",
+            "mainClass": "Activiy1",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Votingsystem2",
+            "request": "launch",
+            "mainClass": "Votingsystem2",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Studentinfo",
+            "request": "launch",
+            "mainClass": "Studentinfo",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "StudentInfo",
+            "request": "launch",
+            "mainClass": "StudentInfo",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Votingstytem",
+            "request": "launch",
+            "mainClass": "Votingstytem",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Day7",
+            "request": "launch",
+            "mainClass": "Exploringjava.Day7",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Day7",
+            "request": "launch",
+            "mainClass": "Day7",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Day6",
+            "request": "launch",
+            "mainClass": "Day6",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Day5",
+            "request": "launch",
+            "mainClass": "Day5",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Day4",
+            "request": "launch",
+            "mainClass": "Day4",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Day3",
+            "request": "launch",
+            "mainClass": "Day3",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Day2",
+            "request": "launch",
+            "mainClass": "Day2",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Gradingsystem",
+            "request": "launch",
+            "mainClass": "Gradingsystem",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Day1",
+            "request": "launch",
+            "mainClass": "Day1",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "SimpleWebServer",
+            "request": "launch",
+            "mainClass": "SimpleWebServer",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "ReyProject_26618a4a"
+        }
+    ]
+}
