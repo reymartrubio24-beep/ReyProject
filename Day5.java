@@ -1,20 +1,20 @@
- 
- // if\and else statement 
- 
- public class Day5 {
-    public static void main(String[] args) {
-        boolean israining = false;
 
-        if (israining) {
+ // if\and else statement 
+
+public class Day5 {
+      public static void main(String[] args) {
+         boolean israining = false;
+
+         if (israining) {
             System.out.println("bring your umbrella");
-        
-        
+      
+      
          } else {
             System.out.println("don't bring your umbrella");
          }
             }
-        }
-    
+         }
+   
 
 //Nested looops  / times ang gi gamit
 //  public class Day5 {
