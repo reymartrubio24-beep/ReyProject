@@ -30,3 +30,4 @@ public class Activity3 {
         System.out.println("Password: " + passwords[index]);
     }
 }
+

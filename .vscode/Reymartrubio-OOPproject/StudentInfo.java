@@ -13,20 +13,21 @@ public class StudentInfo {
     }
 
     public static void main(String[] args) {
-        Scanner s  = new Scanner(System.in) {
-            StudentInfo s = new StudentInfo();
+        Scanner input = new Scanner(System.in);
+        StudentInfo s = new StudentInfo();
 
-            System.out.print("Enter your name: ");
-            s.name = input.nextLine();
+        System.out.print("Enter your name: ");
+        s.name = input.nextLine();
 
-            System.out.print("Enter your age: ");
-            s.age = input.nextInt();
-            input.nextLine();
+        System.out.print("Enter your age: ");
+        s.age = input.nextInt();
+        input.nextLine(); 
 
-            System.out.print("Enter your course: ");
-            s.course = input.nextLine();
+        System.out.print("Enter your course: ");
+        s.course = input.nextLine();
 
-            s.displayInfo();
-        }
+        s.displayInfo();
     }
 }
+
+
