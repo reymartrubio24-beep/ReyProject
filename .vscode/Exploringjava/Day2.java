@@ -3,7 +3,7 @@
 public class Day2 {
           public static void main (String[] args) {
           
-            String fname ="rey mart"+ " "+"superales"+" " +"rubio";
+          String fname ="rey mart"+ " "+"superales"+" " +"rubio";
           
           int rate = 5000;
           int ndw = 26;
