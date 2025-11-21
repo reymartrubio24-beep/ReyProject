@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TopologicalSort",
+            "request": "launch",
+            "mainClass": "TopologicalSort",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "JobScheduler",
+            "request": "launch",
+            "mainClass": "JobScheduler",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "QueueEnhanced",
+            "request": "launch",
+            "mainClass": "QueueEnhanced",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "StackEnhanced",
+            "request": "launch",
+            "mainClass": "StackEnhanced",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
             "name": "Day10",
             "request": "launch",
             "mainClass": "Day10",
