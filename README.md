@@ -173,6 +173,4 @@ Project Link: [ReyProject](https://github.com/reymartrubio24-beep/ReyProject.git
 [license-shield]: https://img.shields.io/github/license/reymartrubio24-beep/ReyProject?style=for-the-badge
 [license-url]: https://github.com/reymartrubio24-beep/ReyProject/blob/master/LICENSE.txt
 
----
 
-If you want, I can also **make a slightly shorter, super clean version** that’s GitHub-star-friendly and easier to skim. It would still keep all key info but look way more modern. Do you want me to do that?
