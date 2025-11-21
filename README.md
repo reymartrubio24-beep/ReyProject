@@ -1,7 +1,3 @@
-Got it! Here's a polished version of your GitHub README tailored to your repository link. I’ve adapted your structure and badges so it fits your project nicely:
-
----
-
 # Java Learning Portfolio 🚀
 
 [![Forks][forks-shield]][forks-url]
@@ -172,5 +168,6 @@ Project Link: [ReyProject](https://github.com/reymartrubio24-beep/ReyProject.git
 [java-url]: https://www.java.com
 [license-shield]: https://img.shields.io/github/license/reymartrubio24-beep/ReyProject?style=for-the-badge
 [license-url]: https://github.com/reymartrubio24-beep/ReyProject/blob/master/LICENSE.txt
+
 
 
