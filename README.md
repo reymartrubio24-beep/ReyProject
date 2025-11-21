@@ -28,6 +28,14 @@
   </p>
 </div>
 
+</div>
+
+🌐 Explore Repo
+ · 💻 View Code
+ · 🐞 Report Bug
+
+</div>
+
 ## 📖 About The Project
 
 This repository documents my Java learning journey, from basic "Hello World" exercises to object-oriented programming projects. Each file progressively builds on previous concepts, emphasizing best practices and practical programming skills.
@@ -154,7 +162,7 @@ MIT License. See `LICENSE.txt` for details.
 
 ## 📫 Contact
 
-[Reymar Mart Rubio GitHub](https://github.com/reymartrubio24-beep)
+[Rey Mart Rubio GitHub](https://github.com/reymartrubio24-beep)
 Project Link: [ReyProject](https://github.com/reymartrubio24-beep/ReyProject.git)
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -169,4 +177,5 @@ Project Link: [ReyProject](https://github.com/reymartrubio24-beep/ReyProject.git
 [java-url]: https://www.java.com
 [license-shield]: https://img.shields.io/github/license/reymartrubio24-beep/ReyProject?style=for-the-badge
 [license-url]: https://github.com/reymartrubio24-beep/ReyProject/blob/master/LICENSE.txt
+
 
