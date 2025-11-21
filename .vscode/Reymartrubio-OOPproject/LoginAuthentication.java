@@ -5,8 +5,8 @@ public class LoginAuthentication {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
-        final String CORRECT_USERNAME = "admin";
-        final String CORRECT_PASSWORD = "password123";
+        final String CORRECT_USERNAME = "rubio";
+        final String CORRECT_PASSWORD = "rubio123";
         
         int attempts = 0;
         final int MAX_ATTEMPTS = 3;
