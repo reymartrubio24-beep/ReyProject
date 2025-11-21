@@ -57,10 +57,9 @@ This project is licensed under the MIT License – see LICENSE
 
 ---
 
-Go ahead and replace your current `README.md` with this version. If you like, I can **create a custom banner image** (for your repo header) that features your logo (the ‘R’ with star) and integrate it into the README with markup. Shall I set that up next?
-::contentReference[oaicite:0]{index=0}
+📜 License
 
-
-
+This project is licensed under the MIT License – see LICENSE
+ for details.
 
 
