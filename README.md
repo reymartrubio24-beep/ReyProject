@@ -152,10 +152,6 @@ MIT License. See `LICENSE.txt` for details.
 [Reymar Mart Rubio GitHub](https://github.com/reymartrubio24-beep)
 Project Link: [ReyProject](https://github.com/reymartrubio24-beep/ReyProject.git)
 
----
-
-<div align="center">⭐ Give the repo a star if you find it helpful!</div>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [forks-shield]: https://img.shields.io/github/forks/reymartrubio24-beep/ReyProject?style=for-the-badge
@@ -168,6 +164,3 @@ Project Link: [ReyProject](https://github.com/reymartrubio24-beep/ReyProject.git
 [java-url]: https://www.java.com
 [license-shield]: https://img.shields.io/github/license/reymartrubio24-beep/ReyProject?style=for-the-badge
 [license-url]: https://github.com/reymartrubio24-beep/ReyProject/blob/master/LICENSE.txt
-
-
-
