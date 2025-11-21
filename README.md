@@ -17,12 +17,12 @@
   <p align="center">
     A curated collection of Java programs from fundamentals to advanced OOP concepts.
     <br />
-    <a href="https://github.com/reymartrubio24-beep/ReyProject.git"><strong>[🌐 Explore Repo]»</strong></a>
+    <a href="https://github.com/reymartrubio24-beep/ReyProject.git"><strong>🌐 Explore Repo</strong></a>
     <br />
     <br />
-    <a href="https://github.com/reymartrubio24-beep/ReyProject.git"> [💻 View Code]</a>
+    <a href="https://github.com/reymartrubio24-beep/ReyProject.git">💻 View Code</a>
     ·
-    <a href="https://github.com/reymartrubio24-beep/ReyProject.git/issues">[🐞 Report Bug]</a>
+    <a href="https://github.com/reymartrubio24-beep/ReyProject.git/issues">🐞 Report Bug</a>
     ·
     <a href="https://github.com/reymartrubio24-beep/ReyProject.git/issues">Request Feature</a>
   </p>
@@ -157,6 +157,8 @@ MIT License. See `LICENSE.txt` for details.
 ## 📫 Contact
 
 [Rey Mart Rubio GitHub](https://github.com/reymartrubio24-beep)
+
+
 Project Link: [ReyProject](https://github.com/reymartrubio24-beep/ReyProject.git)
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -171,6 +173,7 @@ Project Link: [ReyProject](https://github.com/reymartrubio24-beep/ReyProject.git
 [java-url]: https://www.java.com
 [license-shield]: https://img.shields.io/github/license/reymartrubio24-beep/ReyProject?style=for-the-badge
 [license-url]: https://github.com/reymartrubio24-beep/ReyProject/blob/master/LICENSE.txt
+
 
 
 
