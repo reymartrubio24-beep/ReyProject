@@ -1,65 +1,70 @@
-# ReyProject 🚀  
-[![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![Java Version][java-shield]][java-url] [![License][license-shield]][license-url]
-
----
-
-## Logo  
-**ReyProject**  
-A curated collection of Java programs demonstrating fundamentals, OOP, and practical projects!  
-Explore the docs »  
-
-View Code · Report Bug · Request Feature
-
----
-
-## 📖 About The Project  
-This repository showcases my Java learning journey, progressing from simple programs to complex object‑oriented systems. Each file builds on prior concepts, helping reinforce programming fundamentals, data structures, and best practices.
-
-**Key Features:**  
-- **Structured Learning Path:** Start from basic programs and advance to OOP and real‑world systems.  
-- **Real‑World Projects:** Student management, payroll system, and interactive mini‑games.  
-- **Comprehensive Coverage:** Arrays, ArrayLists, Collections, conditional logic, loops, and OOP principles.  
-- **Production‑Ready Code:** Modular, well‑documented, and maintainable Java code.
-
----
-
-## 🛠️ Built With  
-- Java SE – Core programming language  
-- Object‑Oriented Programming (OOP) principles  
-- Data Structures – Arrays, ArrayLists, Collections
-
----
-
-## 🚀 Getting Started  
-Follow these steps to run the projects locally.
-
-### 📋 Prerequisites  
-- Java JDK 8 or higher  
-- Any Java IDE (VS Code, IntelliJ, Eclipse) or command‑line terminal  
-
-### ⚙️ Installation  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/reymartrubio24-beep/ReyProject.git
-2. Navigate into the project directory:
-   ```bash
-    cd ReyProject
-3. Compile and run individual files:
-   ```bash
-    javac Day1.java
-    java Day1
+Java Learning Portfolio 🚀
 
 
-This project is licensed under the MIT License – see LICENSE
- for details.
-
-<!-- Badge links -->
-
----
-
-📜 License
-
-This project is licensed under the MIT License – see LICENSE
- for details.
 
 
+
+
+
+
+
+
+<div align="center"> <a href="https://github.com/reymartrubio24-beep/ReyProject.git"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Logo" width="80" height="80"> </a> <h3>Java Learning Portfolio</h3> <p>From basics to advanced Java & OOP projects—practical, clean, and well-documented code.</p> </div>
+📖 About
+
+A step-by-step Java learning journey:
+
+Foundation → Intermediate → Advanced → OOP & DSA projects
+
+Real-world examples: voting system, payroll, games
+
+Emphasis on modular, maintainable, and production-ready code
+
+🛠 Built With
+
+Java SE
+
+OOP Principles
+
+Collections & Data Structures
+
+🚀 Quick Start
+# Clone the repo
+git clone https://github.com/reymartrubio24-beep/ReyProject.git
+cd ReyProject
+
+# Compile & run examples
+javac Day1.java
+java Day1
+
+javac DSA/GradingSystem.java
+java DSA.GradingSystem
+
+javac OOP/StudentInfo.java
+java OOP.StudentInfo
+
+🗂 Structure
+ReyProject/
+├── DSA/                     # Algorithms & Systems
+│   ├── GradingSystem.java
+│   └── VotingSystem.java
+├── OOP/                     # Object-Oriented Projects
+│   ├── StudentInfo.java
+│   └── EmployeePayrollSystem.java
+├── Day1.java → Day7.java    # Progressive learning files
+└── README.md
+
+💡 Learning Path
+
+Foundation (Days 1-3): I/O, strings, variables, calculator
+Intermediate (Days 4-5): Operators, conditionals, grades
+Advanced (Days 6-7): Loops, guessing game
+OOP & DSA Projects: Student management, payroll, grading, voting
+
+📫 Contact
+
+Reymar Mart Rubio GitHub
+
+Project: ReyProject
+
+<div align="center">⭐ Star this repo if you find it useful!</div> <!-- Badges -->
