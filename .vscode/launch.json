@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LoginAuthentication",
+            "request": "launch",
+            "mainClass": "LoginAuthentication",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "EvenOddChecker",
+            "request": "launch",
+            "mainClass": "EvenOddChecker",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
+            "name": "GradeAverageProgram",
+            "request": "launch",
+            "mainClass": "GradeAverageProgram",
+            "projectName": "ReyProject_26618a4a"
+        },
+        {
+            "type": "java",
             "name": "TopologicalSort",
             "request": "launch",
             "mainClass": "TopologicalSort",
