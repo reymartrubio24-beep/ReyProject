@@ -28,14 +28,23 @@
   </p>
 </div>
 
+**Mastering Java: From Fundamentals to Real-World Projects**
+
+<div>
+
+[![Forks][forks-shield]][forks-url]
+[![Stars][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Java][java-shield]][java-url]
+[![License][license-shield]][license-url]
+
 </div>
 
-🌐 Explore Repo
- · 💻 View Code
- · 🐞 Report Bug
+[🌐 Explore Repo](https://github.com/reymartrubio24-beep/ReyProject.git) · [💻 View Code](https://github.com/reymartrubio24-beep/ReyProject.git) · [🐞 Report Bug](https://github.com/reymartrubio24-beep/ReyProject.git/issues)
 
 </div>
 
+---
 ## 📖 About The Project
 
 This repository documents my Java learning journey, from basic "Hello World" exercises to object-oriented programming projects. Each file progressively builds on previous concepts, emphasizing best practices and practical programming skills.
@@ -177,5 +186,6 @@ Project Link: [ReyProject](https://github.com/reymartrubio24-beep/ReyProject.git
 [java-url]: https://www.java.com
 [license-shield]: https://img.shields.io/github/license/reymartrubio24-beep/ReyProject?style=for-the-badge
 [license-url]: https://github.com/reymartrubio24-beep/ReyProject/blob/master/LICENSE.txt
+
 
 
