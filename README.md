@@ -121,14 +121,19 @@ ReyProject/
 ├── OOP/
 │   ├── StudentInfo.java
 │   └── EmployeePayrollSystem.java
-├── Day1.java
-├── Day2.java
-├── Day3.java
-├── Day4.java
-├── Day5.java
-├── Day6.java
-├── Day7.java
-└── README.md
+├── Exploringjava/
+    ├──Day1.java   
+    ├── Day2.java
+    ├── Day3.java
+    ├── Day4.java
+    ├── Day5.java
+    ├── Day6.java
+    ├── Day7.java
+    ├── Day8.java
+    ├── Day9.java
+    ├── Day10.java
+    └── README.md
+
 ```
 
 ## 🗺️ Roadmap
@@ -164,3 +169,4 @@ Project Link: [ReyProject](https://github.com/reymartrubio24-beep/ReyProject.git
 [java-url]: https://www.java.com
 [license-shield]: https://img.shields.io/github/license/reymartrubio24-beep/ReyProject?style=for-the-badge
 [license-url]: https://github.com/reymartrubio24-beep/ReyProject/blob/master/LICENSE.txt
+
